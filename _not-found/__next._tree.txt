@@ -1,0 +1,4 @@
+:HL["/astra-equity-demo/_next/static/chunks/2c17eww1yz1yi.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"jckev4QiBipt6lx-SJrZ2","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
