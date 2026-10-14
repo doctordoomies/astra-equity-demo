@@ -1,4 +1,4 @@
-:HL["/astra-equity-demo/_next/static/chunks/24ijp4gnsl2w3.css","style"]
+:HL["/astra-equity-demo/_next/static/chunks/03vbnm4vtj9uh.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"N7oLppTYEGEXcICsaXsDC","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"_voq7nkXpr5h8dZX0rd1f","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

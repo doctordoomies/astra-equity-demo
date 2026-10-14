@@ -1,5 +1,5 @@
-:HL["/astra-equity-demo/_next/static/chunks/24ijp4gnsl2w3.css","style"]
+:HL["/astra-equity-demo/_next/static/chunks/03vbnm4vtj9uh.css","style"]
 :HL["/astra-equity-demo/_next/static/media/3a11180d498b75c0-s.p.2028s2bhlck6k.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/astra-equity-demo/_next/static/media/daa29454a3e61cb2-s.p.25_z0nxfvnd9o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"N7oLppTYEGEXcICsaXsDC","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"_voq7nkXpr5h8dZX0rd1f","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
